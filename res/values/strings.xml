@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UTS_101</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name ="welcome">Selamat Datang!</string>
+    <string-array name ="menus">
+        <item >Profile</item>
+        <item >Mini Question</item>
+        <item >Math Question</item>
+        <item >Exit</item>
+    </string-array>
+
+</resources>
